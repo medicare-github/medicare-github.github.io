@@ -160,6 +160,12 @@
             barColor: '#4a7aec',
             animateOnResize: true
         });
+        $('#bar8').barfiller({
+            tooltip: true,
+            duration: 1000,
+            barColor: '#4a7aec',
+            animateOnResize: true
+        });
     }
 
     if ($.fn.imagesLoaded) {
