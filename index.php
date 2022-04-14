@@ -228,7 +228,7 @@
                 <img src="img/portfolio-img/mobileKlu.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
-                        <a href="newKlu.html" target="blank">
+                        <a href="newKlu.php" target="blank">
                             <h4>Aplikasi Wisata KLU</h4>
                         </a>
                         <h6>by Medicare</h6>
@@ -240,7 +240,7 @@
                 <img src="img/portfolio-img/webMobileKlu.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
-                        <a href="webNewKLU.html" target="blank">
+                        <a href="webNewKLU.php" target="blank">
                             <h4>Web Manajemen data Wisata KLU</h4>
                         </a>
                         <h6>by Medicare</h6>
@@ -252,7 +252,7 @@
                 <img src="img/portfolio-img/HaversineLobar.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
-                        <a href="haversineLobarWisata.html" target="blank">
+                        <a href="haversineLobarWisata.php" target="blank">
                             <h4>Aplikasi Wisata Lombok Barat dengan Metode Haversine</h4>
                         </a>
                         <h6>by Medicare</h6>
@@ -264,7 +264,7 @@
                 <img src="img/portfolio-img/metodeKnn.png" alt="">
                 <div class="gallery-hover-overlay d-flex align-items-center justify-content-center">
                     <div class="port-hover-text text-center">
-                        <a href="websiteKnn.html" target="blank">
+                        <a href="websiteKnn.php" target="blank">
                             <h4>Website Rekomendasi Jurusan Universitas Bumigora dgn Metode KNN</h4>
                         </a>
                         <h6>by Medicare</h6>

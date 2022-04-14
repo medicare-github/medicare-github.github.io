@@ -112,7 +112,7 @@
                 </div>
             </div>
         </div>
-        <div class="few-words-thumb bg-img wow fadeInRightBig" data-wow-delay="1.1s" style="background-image: url(&quot;img/portfolio-img/mobileKlu.png&quot;); visibility: visible; animation-delay: 1.1s; animation-name: fadeInRightBig;"></div>
+        <div class="few-words-thumb bg-img wow fadeInRightBig" data-wow-delay="1.1s" style="background-image: url(&quot;img/portfolio-img/HaversineLobar.png&quot;); visibility: visible; animation-delay: 1.1s; animation-name: fadeInRightBig;"></div>
     </section>
     <!-- jQuery-2.2.4 js -->
     <script src="js/jquery-2.2.4.min.js"></script>
